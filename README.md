@@ -1,7 +1,7 @@
 test
 ====
 ## Первый уровень
-*One
-*Two
-*Three
+* One
+* Two
+* Three
 ### Второй уровень
